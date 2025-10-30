@@ -1,0 +1,5 @@
+{
+  "name": "AI Multimodal Product Description Generator",
+  "description": "An AI-powered tool that generates compelling e-commerce product descriptions by analyzing a product image and key features. It uses a multimodal AI model to create engaging copy tailored to a specific target audience.",
+  "requestFramePermissions": []
+}
