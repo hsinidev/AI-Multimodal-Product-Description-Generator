@@ -67,3 +67,5 @@ Now, open your browser and navigate to the URL provided by `serve` (usually `htt
 ## ✍️ Author
 
 Developed by **hsini mohamed**. You can find more of my work on [my GitHub profile](https://github.com/hsinidev/).
+
+https://ai-multimodal-product-description-gen.netlify.app/
